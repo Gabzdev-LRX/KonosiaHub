@@ -1,0 +1,7 @@
+name: KonosiaHub
+version: 1.0
+author: Gabriel__lrx
+main: net.konosia.hub.KonosiaHub
+commands:
+  test:
+    description: Test..

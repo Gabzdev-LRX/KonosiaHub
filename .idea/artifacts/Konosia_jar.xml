@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Konosia:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Konosia.jar">
+      <element id="module-output" name="Konosia" />
+    </root>
+  </artifact>
+</component>
